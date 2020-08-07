@@ -271,7 +271,6 @@ export default class CircularSlider extends PureComponent {
                     <Circle
                       r={(strokeWidth - 1) / 4}
                       fill={"#FF0000"}
-                      stroke={strokeColorFrom}
                       strokeWidth="1"
                     />
                   </G>
